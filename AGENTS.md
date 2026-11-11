@@ -9,7 +9,7 @@ This repository is the **Network Bridge** ConsolePlugin: create linux-bridge and
 | | Value |
 | --- | --- |
 | Plugin ID / ConsolePlugin / `package.json` `consolePlugin.name` | **`oct-network-bridge`** |
-| Image | `quay.io/cjanisze/oct-network-bridge:1.1.4-ocp4.22` (`<semver>-ocp<major.minor>`) |
+| Image | `quay.io/openshift-community-tools/oct-network-bridge:1.1.4-ocp4.22` (`<semver>-ocp<major.minor>`) |
 | i18n | `plugin__oct-network-bridge` |
 
 Display name is **Network Bridge**. No PVC or discovery sidecar.
