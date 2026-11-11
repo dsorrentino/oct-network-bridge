@@ -8,7 +8,7 @@ Deleting a policy does **not** remove a live bridge. **Remove** applies `state: 
 
 - **Plugin ID:** `oct-network-bridge`
 - **Version:** `1.1.4`
-- **Image:** `quay.io/cjanisze/oct-network-bridge:1.1.4-ocp4.22` and `:1.1.4-ocp4.21` (`<semver>-ocp<major.minor>`; always publish both minors)
+- **Image:** `quay.io/openshift-community-tools/oct-network-bridge:1.1.4-ocp4.22` and `:1.1.4-ocp4.21` (`<semver>-ocp<major.minor>`; always publish both minors)
 
 Validated on OpenShift **4.22** (PatternFly 6). Open from **Community Tools → Network** after the storefront (`oct-storefront`) and this plugin are enabled.
 
